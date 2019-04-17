@@ -1,0 +1,1 @@
+javascript:(()=>{const a=prompt('Function name:').replace(/_/g,'-');a&&open(`https://php.net/manual/en/function.${a}.php`)})()

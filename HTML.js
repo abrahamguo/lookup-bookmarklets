@@ -1,0 +1,1 @@
+javascript:(()=>{const a=prompt('Tag name:');a&&open(`https://developer.mozilla.org/en-US/docs/Web/HTML/Element/${a.replace(' ', '/')}`)})()
