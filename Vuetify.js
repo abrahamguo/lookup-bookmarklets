@@ -1,0 +1,1 @@
+javascript:(()=>{const a=prompt(`Component:`);a&&open(`https://vuetifyjs.com/en/api/${a}`)})()

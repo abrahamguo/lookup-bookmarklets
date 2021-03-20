@@ -1,1 +1,1 @@
-javascript:(()=>{const a=prompt(`Enter a package name`);if (a)open(`https://npmjs.com/package/${a}`)})()
+javascript:(()=>{const a=prompt(`Enter a package name`);a&&open(`https://npmjs.com/package/${a}`)})()

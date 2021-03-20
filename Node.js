@@ -1,1 +1,1 @@
-javascript:(()=>{const a=prompt(`Enter a built-in module name:`);if (a)open(`https://nodejs.org/api/${a}.html`)})()
+javascript:(()=>{const a=prompt(`Enter a built-in module name:`);a&&open(`https://nodejs.org/api/${a}.html`)})()

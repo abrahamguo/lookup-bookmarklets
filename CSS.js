@@ -1,1 +1,1 @@
-javascript:(()=>{const a=prompt('Property name:');a&&open(`https://developer.mozilla.org/en-US/docs/Web/CSS/${a}`)})()
+javascript:(()=>{const a=prompt(`Property name:`);a&&open(`https://developer.mozilla.org/en-US/docs/Web/CSS/${a}`)})()

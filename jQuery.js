@@ -1,1 +1,1 @@
-javascript:(()=>{const a=prompt('Function/method name:');a&&open(`https://api.jquery.com/${a.replace('$', 'jQuery')}`)})()
+javascript:(()=>{const a=prompt(`Function/method name:`);a&&open(`https://api.jquery.com/${a.replace(`$`, `jQuery`)}`)})()

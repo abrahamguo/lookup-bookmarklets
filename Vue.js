@@ -1,1 +1,1 @@
-javascript:(()=>{const a=prompt('Function, method or option:');a&&open(`https://vuejs.org/v2/api/#${a.replace('.', '-')}`)})()
+javascript:(()=>{const a=prompt(`Function, method or option:`);a&&open(`https://vuejs.org/v2/api/#${a.replace(`.`, `-`)}`)})()
