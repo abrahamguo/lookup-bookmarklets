@@ -1,0 +1,1 @@
+javascript:(()=>{const a=prompt(`AWS SDK package name:`);a&&open(`https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/client/${a}`)})()
