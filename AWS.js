@@ -1,1 +1,1 @@
-javascript:(()=>{const a=prompt(`AWS SDK package name:`);a&&open(`https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/client/${a}`)})()
+javascript:(()=>{const a=prompt(`AWS SDK package name (optionally, you can add a command name afterwards, with a slash):`);a&&open(`https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/client/${a.replace(`/`,`/command/`)}`)})()
